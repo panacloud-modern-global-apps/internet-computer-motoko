@@ -14,5 +14,7 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [Building IC Drive and why we choose to build on the Internet Computer](http://nanditmehra.com/2021/08/11/building-ic-drive-and-why-we-choose-to-build-on-the-internet-computer/)
 
+[Internet Computer: Web App Decentralized Database Architecture](https://dev.to/daviddalbusco/internet-computer-web-app-decentralized-database-architecture-2llk)
+
 
 
