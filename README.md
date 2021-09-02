@@ -16,11 +16,21 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [Internet Computer: Web App Decentralized Database Architecture](https://dev.to/daviddalbusco/internet-computer-web-app-decentralized-database-architecture-2llk)
 
+[Dfinity Website](https://dfinity.org/)
+
+[Internet Computer Website](https://internetcomputer.org/)
+
 [Showcase](https://dfinity.org/showcase/)
 
-[Twitter](https://twitter.com/hashtag/InternetComputer)
+[Dfinity Community](https://www.dfinitycommunity.com/)
 
-[Live Stats Dashboard](https://dashboard.internetcomputer.org/)
+[Dfinity on Twitter](https://twitter.com/dfinity)
+
+[Internet Computer on Twitter](https://twitter.com/hashtag/InternetComputer)
+
+[Internet Computer Live Stats Dashboard](https://dashboard.internetcomputer.org/)
+
+[Internet Computer Roadmap](https://dfinity.org/roadmap/)
 
 
 
