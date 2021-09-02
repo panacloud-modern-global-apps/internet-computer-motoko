@@ -18,5 +18,9 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [Showcase](https://dfinity.org/showcase/)
 
+[Twitter](https://twitter.com/hashtag/InternetComputer)
+
+[Live Stats Dashboard](https://dashboard.internetcomputer.org/)
+
 
 
