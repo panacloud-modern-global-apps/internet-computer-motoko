@@ -16,5 +16,7 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [Internet Computer: Web App Decentralized Database Architecture](https://dev.to/daviddalbusco/internet-computer-web-app-decentralized-database-architecture-2llk)
 
+[Showcase](https://dfinity.org/showcase/)
+
 
 
