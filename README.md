@@ -32,5 +32,9 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [Internet Computer Roadmap](https://dfinity.org/roadmap/)
 
+[Introducing the Motoko Playground, an Online Development Environment for the Internet Computer](https://medium.com/dfinity/introducing-the-motoko-playground-an-online-development-environment-for-the-internet-computer-efb4cd09ea8b)
+
+[Introduction](https://smartcontracts.org/docs/introduction/welcome.html)
+
 
 
