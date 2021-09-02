@@ -12,5 +12,7 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [DFINITY Foundation Awards First $1M in Developer Grants](https://medium.com/dfinity/dfinity-foundation-awards-first-1m-in-developer-grants-958f5e6caf61)
 
+[Building IC Drive and why we choose to build on the Internet Computer](http://nanditmehra.com/2021/08/11/building-ic-drive-and-why-we-choose-to-build-on-the-internet-computer/)
+
 
 
