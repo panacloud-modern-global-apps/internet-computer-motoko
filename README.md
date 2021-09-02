@@ -10,5 +10,7 @@ Before starting to learn development Must read the [Goldman Sachs report](https:
 
 [Getting Started With Motoko: An Amateur Perspective](https://www.dfinitycommunity.com/getting-started-with-motoko-an-amateur-perspective/)
 
+[DFINITY Foundation Awards First $1M in Developer Grants](https://medium.com/dfinity/dfinity-foundation-awards-first-1m-in-developer-grants-958f5e6caf61)
+
 
 
