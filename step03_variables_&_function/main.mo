@@ -14,13 +14,15 @@ actor {
     public var null :Null = Null;
     public var any :Any = 99;
     //array
+    var array : [] = [];
     //tuple
-    var tuple :Tuple = ("hello", 2021, true)
+    var tuple : Tuple = ("hello", 2021, true)
     
     // custom type
     type User = {
        name: Text;
        phone: Nat;
+       callback : shared Counter -> ();
       };
 
     //Map
@@ -30,6 +32,12 @@ actor {
 
    // debug_show to transform tupe into string
     D.print(debug_show(("hello", 42, "world")))
+
+   //if else
+      if (any < 90)
+        return ? any
+      else "...";
+
 
     //actors are canisters
     actor Main{
