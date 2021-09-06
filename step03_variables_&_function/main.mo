@@ -1,3 +1,5 @@
+import Map "mo:base/HashMap";
+import Text "mo:base/Text";
 
 actor {
     //primitive types
@@ -20,6 +22,12 @@ actor {
        name: Text;
        phone: Nat;
       };
+
+    //Map
+    let map = Map.HashMap<Text, Nat>();
+    map.put(User.name, User.entry);
+    map.get(name);
+
    // debug_show to transform tupe into string
     D.print(debug_show(("hello", 42, "world")))
 
