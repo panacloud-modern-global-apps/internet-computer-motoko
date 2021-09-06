@@ -1,0 +1,35 @@
+{
+    "canisters": {
+      "step03": {
+        "main": "motoko/main.mo",
+        "type": "motoko"
+      },
+      "pure_assets": {
+        "dependencies": [
+          "pure"
+        ],
+        "frontend": {
+          "entrypoint": "/index.html"
+        },
+        "source": [
+          "pure_assets/assets",
+          "dist/pure_assets/"
+        ],
+        "type": "assets"
+      }
+    },
+    "defaults": {
+      "build": {
+        "args": "",
+        "packtool": ""
+      }
+    },
+    "dfx": "0.8.1",
+    "networks": {
+      "local": {
+        "bind": "127.0.0.1:8000",
+        "type": "ephemeral"
+      }
+    },
+    "version": 1
+  }
