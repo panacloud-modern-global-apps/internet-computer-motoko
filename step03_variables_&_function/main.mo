@@ -14,7 +14,15 @@ actor {
     //array
     //tuple
     var tuple :Tuple = ("hello", 2021, true)
+    
+    // custom type
+    type User = {
+       name: Text;
+       phone: Nat;
+      };
+   // debug_show to transform tupe into string
     D.print(debug_show(("hello", 42, "world")))
+
     //actors are canisters
     actor Main{
 
