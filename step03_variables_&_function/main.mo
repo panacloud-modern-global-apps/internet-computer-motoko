@@ -12,7 +12,15 @@ actor {
     public var sixteenBitInt : Int16 = 756;
     public var nonNegative : Nat = 67;
     public var any :Any = 99;
-
+// how to declare types
+  /**
+   * Types
+   */
+// public type userId = Nat;
+//   public type User = {
+//     name : Text;
+//     active : Bool;
+//   };
 
  //query function 
 public query func function (): async Nat{
