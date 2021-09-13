@@ -3,7 +3,8 @@ import Text "mo:base/Text";
 
 //actors are canisters
 actor {
-    //primitive types
+    //primitive types, with modifiers "public" or "private"
+// modifier "stable" keeps the variable and its value consistent
     public var boolen : Bool = true;
     public var character : Char = A;
     public var text : Text = "String";
@@ -21,6 +22,12 @@ actor {
 //     name : Text;
 //     active : Bool;
 //   };
+
+//Array of text
+  var student : [Text] = [];
+//update student array using apend method
+  student := Array.append<Text>(student, ["Ali"]);
+
 
  //query function 
 public query func function (): async Nat{
